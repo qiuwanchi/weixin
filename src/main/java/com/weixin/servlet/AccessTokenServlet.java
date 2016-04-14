@@ -14,6 +14,11 @@ import org.apache.log4j.Logger;
 import com.weixin.util.HttpClientUtils;
 import com.weixin.util.Util;
 
+/**
+ * 
+ * @author qiuwanchi<br/>
+ * @date: 2016年4月14日 <br/>
+ */
 public class AccessTokenServlet extends HttpServlet{
 
 	private static final long serialVersionUID = -3781723823076277442L;

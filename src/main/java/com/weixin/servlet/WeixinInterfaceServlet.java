@@ -13,6 +13,11 @@ import org.springframework.web.bind.ServletRequestUtils;
 
 import com.weixin.util.Util;
 
+/**
+ * 微信对接接口
+ * @author qiuwanchi<br/>
+ * @date: 2016年4月14日 <br/>
+ */
 public class WeixinInterfaceServlet extends HttpServlet{
 
 	private static final long serialVersionUID = -2261411544363206999L;
