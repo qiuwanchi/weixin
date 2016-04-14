@@ -13,7 +13,6 @@ public class Util {
 	/**
 	 * 获取默认令牌
 	 * @return<br/>
-	 * 
 	 * @author qiuwanchi<br/>
 	 * @date: 2016年3月4日 <br/>
 	 */
