@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import org.apache.commons.codec.digest.DigestUtils;
 
-public class Util {
+public class Util { 
 
 	/**
 	 * 获取默认令牌
